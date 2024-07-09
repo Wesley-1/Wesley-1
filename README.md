@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-## I am a software developer
+## I'm a software developer
 
 ### Languages
 - Java
