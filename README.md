@@ -8,6 +8,7 @@
 - Kotlin
 - Solidity
 - Python
+- Lua
 
 ### Contact
 - Email - Tench265@gmail.com
